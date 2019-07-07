@@ -1,0 +1,5 @@
+p {
+    color: blue;
+    font-size: 14pt;
+}
+p:nth-child(2){color: black}

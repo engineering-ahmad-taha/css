@@ -1,0 +1,41 @@
+body {
+    background-color: #f0f8ff;
+}
+
+.paragraph {
+    width: 75%;
+    min-width: 500px;
+    border: 1px solid #333333;
+    margin: 1em;
+    padding: 0.5em;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 2px 2px blue;
+}
+
+
+
+#alert{
+    color: #f00;
+    border: dashed 1px #f00;
+    box-shadow: 2px 2px red;
+}
+
+
+.hl1 {
+    background-color: #fdfd96;
+    display: inline;
+    font: 1em sans-serif;
+    font-weight: bold;
+    padding: 0em .5em;
+}
+
+.hl2 {
+    background-color: #fdca96;
+    display: inline;
+    font: 1em sans-serif;
+    font-weight: bold;
+    padding: 0em .5em;
+}
+    
+

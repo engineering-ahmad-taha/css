@@ -1,0 +1,5 @@
+/* this is for you to complete */
+p a {color: green}
+ul li ul li{color: blue}
+ul li a{color: red}
+div:nth-child(2) a{background-color: yellow;color: purple}

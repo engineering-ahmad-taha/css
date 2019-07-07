@@ -1,0 +1,16 @@
+pre {
+    font-family: Consolas, Menlo, Monaco, Courier New, monospace;
+    font-weight: bold;
+}
+
+span:nth-child(2n+1) {
+    color: #0033cc
+}
+
+span:nth-child(2n+2) {
+    color: #009933
+}
+
+a {
+    text-decoration: none;
+}
